@@ -8,7 +8,9 @@
 		'project managing',
 		'having a cigarette',
 		'having a coffee and quinoa in a startup restaurant',
-		'writing Ruby'
+		'writing Ruby',
+		'at a facial hair conference',
+		'finding himself'
 	];
 
 	function getRandomInt(min, max) {
